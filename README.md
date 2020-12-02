@@ -1,8 +1,11 @@
 # pandas-challenge
-**Pandas Homework - _"Heroes Of Pymoli" (HoP)_**
+
+
   <img src="/Images/anaconda.gif" align="left" width="200"/>
   <img src="/Images/panda.gif" align="right" width="200"/>
-  <img src="/Images/Fantasy.png" align="center" height="180"/>
+  <img src="/Images/Fantasy.png" align="center" height="200"/>
+
+**Pandas Homework - _"Heroes Of Pymoli" (HoP)_**
 
 Pandas Homework is focusing on basic concepts of handling Pandas DataFrame:
  We practiced **_creating DataFrame, grouping, sorting, formating , apply functions_**. 
