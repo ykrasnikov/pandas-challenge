@@ -14,7 +14,7 @@ Pandas Homework is focusing on basic concepts of handling Pandas DataFrame:
 Code was created using **Jupiter Notebook 6.0.3 /Python 3.8.3**
 
 ## Files/Results
-Jupiter  Notebook - [HeroesOfPymoli.IPYNB](/HeroesOfPymoli.ipynb).
+Jupiter  Notebook - [HeroesOfPymoli.IPYNB](/HeroesOfPlymoli/HeroesOfPymoli.ipynb).
 
 Report is included in the notebook , 
 
@@ -64,13 +64,6 @@ aslo it is printed to PDF file - [HeroesOfPymoli_Report](/HeroesOfPymoli_Report.
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-<object data="/HeroesOfPymoli_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/HeroesOfPymoli_Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/HeroesOfPymoli_Report.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-<embed src="/HeroesOfPymoli_Report.pdf" align="center" width="700"/>
 
 ## Contributing
 Not applicable : Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
