@@ -1,20 +1,22 @@
 # pandas-challenge
 
 
-  <img src="/Images/anaconda.gif" align="left" width="200"/>
-  <img src="/Images/panda.gif" align="right" width="200"/>
-  <img src="/Images/Fantasy.png" align="center" height="200"/>
+  <img src="/Images/anaconda.gif" align="left" width="210"/>
+  <img src="/Images/panda.gif" align="right" width="210"/>
+  <img src="/Images/Fantasy.png" align="center" height="210"/>
+
 
 **Pandas Homework - _"Heroes Of Pymoli" (HoP)_**
+
 
 Pandas Homework is focusing on basic concepts of handling Pandas DataFrame:
  We practiced **_creating DataFrame, grouping, sorting, formating , apply functions_**. 
 Code was created using **Jupiter Notebook 6.0.3 /Python 3.8.3**
 
 ## Files/Results
-
-[HeroesOfPymoli.IPYNB](/PyBank/HeroesOfPymoli.ipynb) 
-
+Jupiter  Notebook - [HeroesOfPymoli.IPYNB](/PyBank/HeroesOfPymoli.ipynb).
+Report is included in the notebook , 
+aslo it is printed to PDF file - [HeroesOfPymoli_Report](/HeroesOfPymoli_Report.pdf)
  is a python script that analyzes the records to calculate each of the following:
 ### Player Count
 * Total Number of Players
