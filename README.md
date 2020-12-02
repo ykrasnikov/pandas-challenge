@@ -14,7 +14,7 @@ Pandas Homework is focusing on basic concepts of handling Pandas DataFrame:
 Code was created using **Jupiter Notebook 6.0.3 /Python 3.8.3**
 
 ## Files/Results
-Jupiter  Notebook - [HeroesOfPymoli.IPYNB](/HeroesOfPlymoli/HeroesOfPymoli.ipynb).
+Jupiter  Notebook - [HeroesOfPymoli.IPYNB](/HeroesOfPymoli.ipynb)
 
 Report is included in the notebook , 
 
